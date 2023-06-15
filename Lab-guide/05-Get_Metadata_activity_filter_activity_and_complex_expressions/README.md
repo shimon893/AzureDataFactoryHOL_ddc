@@ -58,7 +58,7 @@ Orders* and *Orderlines* data from WWI STFP.
     4.  **Filetype**: *parquet*
 
 6.  Debug the pipeline with ‘date’ parameter as
-    *<span class="underline">‘2019-02-01’</span>*
+    *<span class="underline">‘2019-02-06’</span>*
 
 7.  Inspect Blob Storage to make sure the file has been created.
 
@@ -101,7 +101,7 @@ Orders* and *Orderlines* data from WWI STFP.
     4.  **Filetype**: *parquet*
 
 6.  Debug the pipeline with ‘date’ parameter as
-    *<span class="underline">‘2019-02-01’</span>*
+    *<span class="underline">‘2019-02-06’</span>*
 
 7.  Inspect Blob Storage to make sure the file has been created.
 
@@ -138,7 +138,7 @@ Orders* and *Orderlines* data from WWI STFP.
     4.  **Filetype**: *parquet*
 
 6.  Debug the pipeline with ‘date’ parameter as
-    *<span class="underline">‘2019-02-01’</span>*
+    *<span class="underline">‘2019-02-06’</span>*
 
 7.  Inspect Blob Storage to make sure the file has been created.
 
