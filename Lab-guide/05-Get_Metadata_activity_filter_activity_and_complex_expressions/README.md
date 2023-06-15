@@ -41,7 +41,7 @@ Orders* and *Orderlines* data from WWI STFP.
     
     1.  **source dataset**: *WWISftpParquet*
     
-    2.  **folder**: *WorldWideImporters/customers*
+    2.  **folder**: *WideWorldImporters/customers*
     
     3.  **Filename**: *customers\_@{pipeline().parameters.date}*
     
@@ -84,7 +84,7 @@ Orders* and *Orderlines* data from WWI STFP.
     
     1.  **source dataset**: *WWISftpParquet*
     
-    2.  **folder**: *WorldWideImporters/orders*
+    2.  **folder**: *WideWorldImporters/orders*
     
     3.  **Filename**: *orders\_@{pipeline().parameters.date}*
     
@@ -121,7 +121,7 @@ Orders* and *Orderlines* data from WWI STFP.
     
     1.  **source dataset**: *WWISftpParquet*
     
-    2.  **folder**: *WorldWideImporters/orderlines*
+    2.  **folder**: *WideWorldImporters/orderlines*
     
     3.  **Filename**: *orderlines\_@{pipeline().parameters.date}*
     
@@ -185,7 +185,7 @@ expected patter) -\> ForEach loop \[ Execute pipeline \[ Copy pipeline\]
     
     1.  Dateset: WWISftpParquet
     
-    2.  Folder: WorldWideImporters/customers
+    2.  Folder: WideWorldImporters/customers
     
     3.  File: \*
     
