@@ -49,7 +49,7 @@ Orders* and *Orderlines* data from WWI STFP.
 
 5.  Setup ‘Copy’ activity source
     
-    1.  **source dataset**: *WWISftpParquet*
+    1.  **source dataset**: *WWIStagingBlobParquet*
     
     2.  **folder**: *customer*
     
@@ -92,7 +92,7 @@ Orders* and *Orderlines* data from WWI STFP.
 
 5.  Setup ‘Copy’ activity source
     
-    1.  **source dataset**: *WWISftpParquet*
+    1.  **source dataset**: *WWIStagingBlobParquet*
     
     2.  **folder**: *order*
     
@@ -129,7 +129,7 @@ Orders* and *Orderlines* data from WWI STFP.
 
 5.  Setup ‘Copy’ activity source
     
-    1.  **source dataset**: *WWISftpParquet*
+    1.  **source dataset**: *WWIStagingBlobParquet*
     
     2.  **folder**: *orderline*
     
