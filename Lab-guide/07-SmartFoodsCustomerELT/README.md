@@ -365,7 +365,7 @@ The ultimate table will look like below:
 
 9.  Under parameters provide
     
-      - “folder” = customer
+      - “folder” = customers
     
       - “file” = smartfoods\_customers\_20200101
     
