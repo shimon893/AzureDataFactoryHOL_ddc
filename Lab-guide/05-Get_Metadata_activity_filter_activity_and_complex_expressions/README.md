@@ -72,7 +72,7 @@ Orders* and *Orderlines* data from WWI STFP.
 
 1.  Create a new pipeline
     
-    1.  Name: ‘*WWICustomersSftpToBlob’*
+    1.  Name: ‘*WWIOrdersSftpToBlob’*
 
 2.  Create a new parameter called *‘date’*
 
